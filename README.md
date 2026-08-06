@@ -12,4 +12,4 @@ Inspired by the pixel module in Arknights' "Fantastic Wonders" exhibition.
 
 Just download the file **pixel_maker.html** and run it on the browser.
 
-直接下载**pixel_maker.html**并在浏览器运行即可喵～
+直接下载 **pixel_maker.html** 并在浏览器运行即可喵～
