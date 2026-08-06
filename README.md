@@ -10,3 +10,5 @@ Inspired by the pixel module in Arknights' "Fantastic Wonders" exhibition.
 Instruction:
 
 Just download it and run on the browser.
+
+直接下载在浏览器运行即可喵～
