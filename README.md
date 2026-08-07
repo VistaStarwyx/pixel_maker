@@ -10,6 +10,6 @@ Inspired by the pixel module in Arknights' "Fantastic Wonders" exhibition, The r
 
 **Instruction:**
 
-Just download the file **index.html** and run it on the browser.
+Just download the file **index.html** and run it on the browser. Or just visit the website https://vistastarwyx.github.io/pixel_maker
 
-直接下载 **index.html** 并在浏览器运行喵～
+直接下载 **index.html** 并在浏览器运行，或者直接访问 https://vistastarwyx.github.io/pixel_maker 喵～
